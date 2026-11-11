@@ -1,15 +1,15 @@
-# oop-project
+# poo
 
-Object-Oriented Programming Repository
+Object-Oriented Programming coursework in Java: class examples and practice exercises.
 
-Este repositório foi criado para armazenar e organizar códigos desenvolvidos em aulas e práticas de Programação Orientada a Objetos.
+## Structure
 
-## Repository Structure
+| Folder       | Content                              |
+| ------------ | ------------------------------------ |
+| `lesson`     | Class examples and demos             |
+| `lesson2`    | Class examples and demos (part 2)    |
+| `activities` | Practice exercises                   |
 
-O repositório é dividido em duas seções principais:
+## Topics
 
-### 1. Classes
-Códigos e exemplos usados nas aulas: conceitos, demonstrações e pequenos exercícios (classes, objetos, herança, polimorfismo, encapsulamento).
-
-### 2. Practices
-Atividades práticas para aplicar os conceitos vistos em aula (ex.: pequenos projetos, refatorações e testes).
+Classes and objects · Encapsulation · Inheritance · Polymorphism
